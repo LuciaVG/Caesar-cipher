@@ -1,0 +1,14 @@
+{
+  "inputs": [
+    {
+      "type" : "en",
+      "in_file" : "file.txt",
+      "out_file" : "out.txt"
+    },
+    {
+      "type" : "de",
+      "in_file" : "file2.txt",
+      "out_file" : "out2.txt"
+    }
+  ]
+}
